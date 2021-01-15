@@ -12,7 +12,7 @@ docker build -t leaf_disease_classifier . && docker run --rm -it -p 5000:5000 le
 ```
 ### 呈现效果
 ![Web](images/7.png)
-![Classification]](images/4.png)
+![Classification](images/4.png)
 
 ### Reference
 Dataset: [cassava-leaf-disease-classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/data)
